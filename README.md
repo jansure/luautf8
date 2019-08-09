@@ -170,6 +170,8 @@ Improvement needed
 - grapheme-compose support, and affect in utf8.reverse and utf8.width
 - Unicode normalize algorithm implement.
 
+Addition
+jansure commit lua-utf8.dll for windows user,based on LUA5.1.15 and mingw,you can directly use it dll.
 
 License
 -------
